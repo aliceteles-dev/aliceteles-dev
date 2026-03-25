@@ -57,6 +57,14 @@ Me chamo Alice Mendes Teles, tenho 25 anos e sou natural de Minas Gerais. Comece
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+ />
+          
 <img 
     align="left" 
     alt="C#" 
