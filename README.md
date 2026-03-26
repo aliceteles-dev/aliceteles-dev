@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack | Desenvolvedora de Jogos`**
 
-Me chamo Alice Mendes Teles, tenho 25 anos e sou natural de Minas Gerais. Comecei a estudar programação como autodidata durante o curso de Medicina Veterinária, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Tenho Técnico de Manutenção e Suporte em Informática pela Anhanguera (2026) e aprendi a criar jogos através do curso NoneClass. Sou apaixonada por tecnologia e criação de jogos, os quais você pode acessar na página da itch "[Alice Teles](https://alice-in-gamerland.itch.io/)".
+Me chamo Alice Mendes Teles, tenho 25 anos e sou natural de Minas Gerais. Comecei a estudar programação como autodidata durante o curso de Medicina Veterinária, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Tenho Técnico de Manutenção e Suporte em Informática pela Anhanguera (2026) e aprendi a criar jogos através do curso NoneClass. Sou apaixonada por tecnologia e criação de jogos, os quais você pode acessar na minha página da itch "[Alice Teles](https://alice-in-gamerland.itch.io/)".
 
 ---
 
